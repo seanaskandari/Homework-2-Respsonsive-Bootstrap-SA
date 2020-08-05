@@ -1,3 +1,43 @@
+
+For Homework 2 Responsive bootstrap I built 3 separate html files.
+The first html file was the home/about me page. I used bootstrap's 
+grid system to wireframe the page including a navigation bar at 
+the header, one column and two rows.
+
+The second html file was the portfolio page. The portfolio page was
+designed with the bootstrap grid systme as well and contained 5 rows.
+
+The third hmtl file was the contact page. The contact form was created
+with html where the user can enter their name, email, write a message
+and submit their message by pressing a button.
+
+Each page contained a navigation bar in the header designed with bootstrap
+and is responsive to mobile devices. 
+
+
+Updates to the website will be recurring in perpetuity.
+
+
+
+-SA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
